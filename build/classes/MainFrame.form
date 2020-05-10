@@ -60,6 +60,7 @@
         </Property>
         <Property name="text" type="java.lang.String" value="Student"/>
         <Property name="toolTipText" type="java.lang.String" value="Student"/>
+        <Property name="focusPainted" type="boolean" value="false"/>
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[170, 90]"/>
         </Property>

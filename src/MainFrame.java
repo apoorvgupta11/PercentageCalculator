@@ -35,6 +35,7 @@ public class MainFrame extends javax.swing.JFrame {
         jButton2.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         jButton2.setText("Student");
         jButton2.setToolTipText("Student");
+        jButton2.setFocusPainted(false);
         jButton2.setPreferredSize(new java.awt.Dimension(170, 90));
 
         jButton3.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
